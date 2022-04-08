@@ -1,0 +1,74 @@
+@import url(//db.onlinewebfonts.com/c/6c40f158a670ee286eeb3e0859db3aec?family=Konexy+Personal+Use);
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'konexy personal use';
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    letter-spacing: 2px;
+}
+
+
+form{
+    margin: 50px;
+    /* border: black solid; */
+    font-size: 150%;
+    box-shadow: 10px 10px 30px rgb(0, 0, 0);
+    padding: 3%;
+}
+form button{
+    font-size: 100%;
+    box-shadow: 10px 10px 30px rgb(32, 24, 66);
+}
+form button:hover{
+    font-size: 80%;
+    box-shadow: 10px 10px 30px rgb(32, 24, 66);
+    color: purple;
+}
+form input{
+    width: 60%;
+    height: 40px;
+}
+.btn2{
+    margin-left: 40%;
+    font-size: 180%;
+    box-shadow: 10px 10px 30px rgb(32, 24, 66);
+}
+.btn2:hover{
+    font-size: 120%;
+    box-shadow: 10px 10px 30px rgb(32, 24, 66);
+    color: purple;
+}
+table thead{
+
+    letter-spacing: 6px;
+}
+table{
+    margin-left: 30%;
+    box-shadow: 10px 10px 30px rgb(0, 0, 0);
+    padding: 3%;
+}
+table tbody td{
+    margin: 100%;
+}
+.btn3{
+    margin-left: 30%;
+    font-size: 100%;
+    box-shadow: 10px 10px 30px rgb(32, 24, 66);
+}
+.btn3:hover{
+    font-size: 120%;
+    box-shadow: 10px 10px 30px rgb(32, 24, 66);
+    color: purple;
+}
+.btn4{
+    margin-left: 2%;
+    font-size: 100%;
+    box-shadow: 10px 10px 30px rgb(32, 24, 66);
+}
+.btn4:hover{
+    font-size: 120%;
+    box-shadow: 10px 10px 30px rgb(32, 24, 66);
+    color: purple;
+}
